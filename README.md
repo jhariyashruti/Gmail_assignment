@@ -2,8 +2,10 @@
 
 This repository contains:
 
-1. Traditional Test Cases
-2. BDD Test Cases
+Positive test cases
+Negative test cases
+BDD test cases
+Traditional test cases
 
 Application Tested: Gmail Compose Functionality
 
